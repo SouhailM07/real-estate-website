@@ -4,3 +4,7 @@ html {
 * {
   transition: 0.3s;
 }
+
+article {
+  margin: 0px auto;
+}

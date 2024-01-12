@@ -3,3 +3,6 @@
 @tailwind utilities;
 @layer components {
 }
+article {
+  @apply font-medium;
+}
